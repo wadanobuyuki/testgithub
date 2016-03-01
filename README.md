@@ -9,7 +9,7 @@
 ##メンバ
 tanaka1
 tanaka2
-tanaka3
+加藤
 
 ##ファイル構成
 ##リリース方法
